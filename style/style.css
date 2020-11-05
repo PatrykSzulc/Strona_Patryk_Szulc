@@ -419,7 +419,7 @@ footer > nav > ul > li > a > img {
     border: none;
     border-radius: 50px;
     cursor: pointer;
-    transition: all 0.3s ease 0s;
+    transition: all 0.5s ease 0s;
 }
 
 .cta2 > button:hover {
